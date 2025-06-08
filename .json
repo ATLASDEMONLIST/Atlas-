@@ -1,0 +1,18 @@
+[
+  {
+    "rank": 1,
+    "level": "Acheron",
+    "creator": "Riot",
+    "points": 150,
+    "verifier": "Technical",
+    "video": "https://youtu.be/xyz"
+  },
+  {
+    "rank": 2,
+    "level": "Slaughterhouse",
+    "creator": "IcEDCave",
+    "points": 149,
+    "verifier": "Riot",
+    "video": "https://youtu.be/abc"
+  }
+]
